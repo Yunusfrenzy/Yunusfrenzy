@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Yunusfrenzy
+- 👋 Hi, I’m @Tunde Yinusa
 - 👀 I’m interested in Cybersecurity, Software Engineering, Web Development.
-- 🌱 I’m currently learning Cybersecurity Courses
+- 🌱 I’m currently learning Cybersecurity Courses, Full-Stack Web Development Courses.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yunusfrenzy@gmail.com
+- 📫 How to reach me tunde.d.yinusa@gmail.com
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I love playing football
 
